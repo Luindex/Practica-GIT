@@ -1,2 +1,4 @@
 hola Soy Ivan Dario estudio desarrollo de software
-me gusta la programacion
+me gusta la programacion 
+
+aparte de la programacion me gusta la musica
